@@ -1,12 +1,12 @@
 # CHARM
 
-**Clinically-Conditioned Hypernetwork Fusion of ECG and Patient Risk Factors with Missing-Modality Robustness and Evidential Abstention for Cardiovascular Disease Diagnosis**
+**Clinically conditioned deep learning for robust cardiovascular disease diagnosis from incomplete electrocardiogram and patient data**
 
 [![tests](https://github.com/iitrky/CHARM/actions/workflows/tests.yml/badge.svg)](https://github.com/iitrky/CHARM/actions/workflows/tests.yml)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iitrky/CHARM/blob/main/notebooks/CHARM_Colab.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Official implementation of CHARM (G. Arul Dalton et al., manuscript under review).
+Official implementation of CHARM (Clinically conditioned Hypernetwork fusion with Abstention and Robust Missing modality handling), G. Arul Dalton et al., manuscript under review.
 
 ![CHARM architecture](docs/architecture.png)
 
@@ -90,7 +90,7 @@ pytest -q tests
 
 ```bibtex
 @article{dalton2026charm,
-  title   = {CHARM: Clinically-Conditioned Hypernetwork Fusion of ECG and Patient Risk Factors with Missing-Modality Robustness and Evidential Abstention for Cardiovascular Disease Diagnosis},
+  title   = {Clinically conditioned deep learning for robust cardiovascular disease diagnosis from incomplete electrocardiogram and patient data},
   author  = {Dalton, G. Arul},
   journal = {Under review},
   year    = {2026}
