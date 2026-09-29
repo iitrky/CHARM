@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying article."
+title: "CHARM: Clinically-Conditioned Hypernetwork Fusion of ECG and Patient Risk Factors with Missing-Modality Robustness and Evidential Abstention for Cardiovascular Disease Diagnosis"
+authors:
+  - family-names: "Dalton"
+    given-names: "G. Arul"
+    orcid: "https://orcid.org/0000-0002-5981-7176"
+    affiliation: "Saveetha Engineering College, Chennai, India"
+repository-code: "https://github.com/iitrky/CHARM"
+license: MIT
+version: 1.0.0
+date-released: 2026-09-29
